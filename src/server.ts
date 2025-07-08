@@ -28,6 +28,7 @@ app.post('/api/message', async (req, res) => {
         user_id: userId,
         project_id: projectId,
         limit: 5,
+        threshold: 0.7
       });
       res.json({ type: 'answer', results });
     } else {
