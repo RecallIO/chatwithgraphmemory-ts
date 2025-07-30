@@ -6,6 +6,7 @@ A simple TypeScript app using the [RecallIO](https://www.npmjs.com/package/recal
 
 - Node.js 18+
 - A RecallIO API key (sign up at [RecallIO](https://app.recallio.ai))
+- This example uses RecallIO **v1.2.4** or newer
 
 ## Installation
 
